@@ -5,4 +5,3 @@ uproszczenie interfejsu graficznego (xd)
 newBranch
 
 zmiana10a
-zmiana11
