@@ -1,0 +1,7 @@
+naprawa bledu hotFix-001
+oraz
+dodano asystenta pomocy (lol)
+uproszczenie interfejsu graficznego (xd)
+newBranch
+
+zmiana10a

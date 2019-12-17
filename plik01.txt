@@ -3,3 +3,6 @@ zmiana2 zmiana2a
 zmiana3 zmiana3a
 zmiana4 zmiana4a
 zmiana5
+dodano asystenta pomocy (lol)
+uproszczenie interfejsu graficznego (xd)
+zmiana9b
