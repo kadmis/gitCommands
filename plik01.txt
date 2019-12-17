@@ -1,5 +1,5 @@
 zmiana1 zmiana6
 zmiana2 zmiana2a
-zmiana3
-zmiana4
+zmiana3 zmiana3a
+zmiana4 zmiana4a
 zmiana5
