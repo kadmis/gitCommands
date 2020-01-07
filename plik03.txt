@@ -7,3 +7,5 @@ newBranch
 zmiana10a
 zmiana10b
 zmiana12 w clonie
+
+zmiana15
