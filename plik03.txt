@@ -7,3 +7,4 @@ newBranch
 zmiana10a
 zmiana10b
 zmiana11
+zmiana14 na nowym branchu
