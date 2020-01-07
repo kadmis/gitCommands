@@ -6,3 +6,4 @@ newBranch
 
 zmiana10a
 zmiana10b
+zmiana11
