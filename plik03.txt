@@ -9,3 +9,4 @@ zmiana10b
 zmiana12 w clonie
 
 zmiana15
+zmiana16
